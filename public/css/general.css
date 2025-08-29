@@ -1,0 +1,18 @@
+    @media (min-width: 1024px) and (max-width: 1366px) {
+            .logo1{
+                position: relative;
+                right: 39px;
+            }
+            .logo2{
+                        position: relative;
+                        right: 204px;
+                        top: 31px;
+            }
+        }
+             .logo2 {
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: #8B4513;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
